@@ -1,0 +1,11 @@
+*
+
+!*.*
+!*/
+
+*.out
+*.exe
+hw1/a.exe
+
+*.json
+.DS_Store
